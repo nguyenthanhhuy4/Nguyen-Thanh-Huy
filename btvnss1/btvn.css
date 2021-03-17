@@ -1,0 +1,42 @@
+body {
+	display: block;
+	margin-left: auto;
+ 	margin-right: auto;
+	width: 80%;
+	font-family: Arial, Helvetica, sans-serif;
+	color : cornflowerblue ;
+}
+p:nth-child(2){
+	margin-left: auto;
+ 	margin-right: auto;
+	width: 90%;}
+p:nth-child(3){
+	margin-left: auto;
+ 	margin-right: auto;
+	width: 90%;}
+p:nth-child(4){
+	margin-left: auto;
+ 	margin-right: auto;
+	width: 90%;
+}
+h1 {
+	margin-left: auto;
+ 	margin-right: auto;
+	width: 80% ;
+}
+p:nth-child(1) {
+	font-size:18pt;
+  	margin-left: auto;
+ 	margin-right: auto;
+  	width: 70%;
+}
+p:nth-child(6) {
+	font-size: 18pt;
+	color: white;
+	background-color: dodgerblue;
+}
+p:nth-child(16) {
+	font-size: 18pt;
+	color: white;
+	background-color: dodgerblue;
+}
